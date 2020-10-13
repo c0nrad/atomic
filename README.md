@@ -1,6 +1,6 @@
 # Atomic Calculations
 
-Some fun with atomic calculations. Currently it plots the experimental ionization energy vs two calculation of ionization energy based off the hydrogen model using two different calculations of effective nuclear charge.
+Some fun with atomic calculations. Currently it plots the experimental ionization energy vs two calculation of ionization energy based off the hydrogen model using different calculations of effective nuclear charge.
 
 ![./ionization.png](ionization.png)
 
